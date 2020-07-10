@@ -8,6 +8,6 @@ this is like a Mario maker in first idea
 - [ ] Make player movement and command
 - [ ] Make editor
 
-# What's to be fun a make
+# What's to be fun to make
 - [ ] Share level
 - [ ] Multiplayer
