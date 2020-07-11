@@ -8,8 +8,8 @@ this is like a Mario maker in first idea
 - [ ] Make player movement and command
 - [ ] Make editor
      - [x] Terrain
-     - [ ] System for place elements
-     - [ ] Saving map system
+     - [x] System for place elements
+     - [ ] Saving map system [In Progress]
 
 # What's to be fun to make
 - [ ] Share level
