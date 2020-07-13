@@ -7,7 +7,7 @@ this is like a Mario maker in first idea
 - [ ] Make terrain
 - [ ] Make player movement and command
 - [ ] Make editor
-     - [x] Terrain
+     - [x] Terrain (Work on more size)
      - [x] System for place elements
      - [x] Background
      - [ ] Suppression system [In Progress]
