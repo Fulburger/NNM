@@ -10,7 +10,7 @@ this is like a Mario maker in first idea
      - [x] Terrain (Work on more size)
      - [x] System for place elements
      - [x] Background
-     - [ ] Suppression system [In Progress]
+     - [x] Suppression system
      - [ ] Saving map system [In Progress]
 
 # What's to be fun to make
